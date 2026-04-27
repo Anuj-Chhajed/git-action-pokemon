@@ -5,7 +5,7 @@ on:
       
 jobs:
     node-setup-job:
-      runs-on: ububuntu-latest
+      runs-on: ubuntu-latest
       
       defaults:
         run:
