@@ -16,4 +16,4 @@ jobs:
           uses: actions/checkout@v4
 
         - name: Initialize Node
-          uses: acions/setup-node@v4
+          uses: actions/setup-node@v4
